@@ -1,10 +1,6 @@
 # AATP: Autonomous Agent Transport Protocol
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MerlijnW70/aatp/main/assets/logo-optimized.png" alt="AATP — Autonomous Agent Transport Protocol" width="440">
-</p>
-
-<p align="center">
   <a href="https://github.com/MerlijnW70/aatp/actions"><img src="https://github.com/MerlijnW70/aatp/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
   <img src="https://img.shields.io/badge/no__std-compatible-green.svg" alt="no_std">
