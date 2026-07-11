@@ -1,8 +1,10 @@
 # AATP: Autonomous Agent Transport Protocol
 
 <p align="center">
+  <a href="https://crates.io/crates/aatp"><img src="https://img.shields.io/crates/v/aatp.svg" alt="crates.io"></a>
+  <a href="https://docs.rs/aatp"><img src="https://img.shields.io/docsrs/aatp" alt="docs.rs"></a>
   <a href="https://github.com/MerlijnW70/aatp/actions"><img src="https://github.com/MerlijnW70/aatp/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
+  <img src="https://img.shields.io/crates/l/aatp.svg" alt="License: MIT">
   <img src="https://img.shields.io/badge/no__std-compatible-green.svg" alt="no_std">
   <img src="https://img.shields.io/badge/unsafe-forbidden-success.svg" alt="forbid(unsafe)">
 </p>
