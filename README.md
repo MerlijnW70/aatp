@@ -1,7 +1,7 @@
 # AATP: Autonomous Agent Transport Protocol
 
 <p align="center">
-  <img src="assets/logo-optimized.png" alt="AATP — Autonomous Agent Transport Protocol" width="440">
+  <img src="https://raw.githubusercontent.com/MerlijnW70/aatp/main/assets/logo-optimized.png" alt="AATP — Autonomous Agent Transport Protocol" width="440">
 </p>
 
 <p align="center">
